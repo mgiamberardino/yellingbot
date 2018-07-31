@@ -17,6 +17,8 @@ To use it just clone the repository add the following env vars and enjoy your bo
 - BOT_TOKEN: token from Bot on slack.
 - BOT_NAME: username given to the bot on Slack.
 
+And the you can just run the project with `npm start`.
+
 ## Contributors:
 
 - Mauro Giamberardino
