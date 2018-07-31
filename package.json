@@ -1,0 +1,15 @@
+{
+  "name": "yellbot",
+  "version": "1.0.0",
+  "description": "A yelling bot for Slack",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mauro Giamberardino",
+  "license": "ISC",
+  "dependencies": {
+    "slackbots": "^1.1.0"
+  }
+}
